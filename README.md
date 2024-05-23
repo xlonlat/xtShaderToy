@@ -6,7 +6,7 @@
 
 -h The default value is 720
 
--i Same as the code of the www.ShaderToy.com,There are several test files in the ./res directory
+-i Same as the code of the www.ShaderToy.com, There are several test files in the ./res directory
 
 Currently supports the following uniforms:
 
@@ -37,7 +37,7 @@ uniform vec4 iMouse;
 
 # Windows
 
- Microsoft Visual C++ 2005 or later
+ Microsoft Visual C++ 2019 or later
 	
  open {xtShaderToy directory}
 
